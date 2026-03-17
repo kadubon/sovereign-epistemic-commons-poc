@@ -1,0 +1,12 @@
+extends: base_v2.yaml
+
+experiment:
+  public_entrypoint: true
+  world_label: default_confirmatory
+
+world:
+  drift_steps: [12, 24]
+  drift_keys_per_episode: 2
+  attack_interval: 4
+  attack_burst_size: 2
+

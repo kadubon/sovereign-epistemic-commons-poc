@@ -1,0 +1,46 @@
+{
+  "executed": true,
+  "runs": [
+    {
+      "backend": "ollama/gemma3:1b",
+      "event_log": "logs/v2_aux_llm/default_confirmatory/full_sec_lite_ollama_gemma3_1b_101.jsonl",
+      "metrics_file": "results/v2_aux_llm/runs/default_confirmatory/full_sec_lite_ollama_gemma3_1b_101/metrics.json",
+      "run_id": "full_sec_lite_ollama_gemma3_1b_101",
+      "seed": 101,
+      "world": "default_confirmatory",
+      "run_uid": "default_confirmatory__full_sec_lite__ollama/gemma3:1b__seed101",
+      "condition": "full_sec_lite"
+    },
+    {
+      "backend": "ollama/gemma3:1b",
+      "event_log": "logs/v2_aux_llm/default_confirmatory/full_sec_lite_ollama_gemma3_1b_103.jsonl",
+      "metrics_file": "results/v2_aux_llm/runs/default_confirmatory/full_sec_lite_ollama_gemma3_1b_103/metrics.json",
+      "run_id": "full_sec_lite_ollama_gemma3_1b_103",
+      "seed": 103,
+      "world": "default_confirmatory",
+      "run_uid": "default_confirmatory__full_sec_lite__ollama/gemma3:1b__seed103",
+      "condition": "full_sec_lite"
+    },
+    {
+      "backend": "ollama/gemma3:4b",
+      "event_log": "logs/v2_aux_llm/default_confirmatory/full_sec_lite_ollama_gemma3_4b_101.jsonl",
+      "metrics_file": "results/v2_aux_llm/runs/default_confirmatory/full_sec_lite_ollama_gemma3_4b_101/metrics.json",
+      "run_id": "full_sec_lite_ollama_gemma3_4b_101",
+      "seed": 101,
+      "world": "default_confirmatory",
+      "run_uid": "default_confirmatory__full_sec_lite__ollama/gemma3:4b__seed101",
+      "condition": "full_sec_lite"
+    },
+    {
+      "backend": "ollama/gemma3:4b",
+      "event_log": "logs/v2_aux_llm/default_confirmatory/full_sec_lite_ollama_gemma3_4b_103.jsonl",
+      "metrics_file": "results/v2_aux_llm/runs/default_confirmatory/full_sec_lite_ollama_gemma3_4b_103/metrics.json",
+      "run_id": "full_sec_lite_ollama_gemma3_4b_103",
+      "seed": 103,
+      "world": "default_confirmatory",
+      "run_uid": "default_confirmatory__full_sec_lite__ollama/gemma3:4b__seed103",
+      "condition": "full_sec_lite"
+    }
+  ],
+  "canonical_run_key": "run_uid"
+}

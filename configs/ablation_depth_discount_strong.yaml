@@ -1,0 +1,10 @@
+extends: contamination_stress.yaml
+
+experiment:
+  world_label: contamination_stress_ablation_strong
+
+governance:
+  typed_lanes: true
+  provenance_discount: strong
+  exit_policy: deterministic
+

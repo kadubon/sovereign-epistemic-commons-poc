@@ -1,0 +1,1192 @@
+{
+  "rows": [
+    {
+      "Psi_t": -0.2007346285417875,
+      "accessibility_proxy": 0.25,
+      "broker_concentration": 0.375,
+      "contaminated_items_admitted": 1,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.0,
+      "lane_occupancy_ratios": {
+        "core": 0.75,
+        "het": 0.25,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 1,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -0.2007346285417875,
+      "mean_psi": -0.2007346285417875,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": null,
+      "protected_query_accuracy": 0.25,
+      "protected_query_recall": 0.25,
+      "realized_fork_count": 0,
+      "runtime_seconds": 0.0069914999994580285,
+      "step": 0,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -0.6674664087553279,
+      "accessibility_proxy": 0.5,
+      "broker_concentration": 0.3061224489795918,
+      "contaminated_items_admitted": 1,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.0,
+      "lane_occupancy_ratios": {
+        "core": 0.8571428571428571,
+        "het": 0.14285714285714285,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 2,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -0.4341005186485577,
+      "mean_psi": -0.4341005186485577,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": null,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.5,
+      "realized_fork_count": 0,
+      "runtime_seconds": 0.007813899999746354,
+      "step": 1,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -0.9876669909350724,
+      "accessibility_proxy": 0.75,
+      "broker_concentration": 0.22314049586776857,
+      "contaminated_items_admitted": 2,
+      "contradiction_reserve": 0.15000000000000002,
+      "false_core_admission_rate": 0.0,
+      "lane_occupancy_ratios": {
+        "core": 0.8181818181818182,
+        "het": 0.18181818181818182,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 3,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -0.618622676077396,
+      "mean_psi": -0.618622676077396,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": null,
+      "protected_query_accuracy": 0.75,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 0,
+      "runtime_seconds": 0.02227359999960754,
+      "step": 2,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.576982584490767,
+      "accessibility_proxy": 0.75,
+      "broker_concentration": 0.2839506172839506,
+      "contaminated_items_admitted": 2,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.0,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 4,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -0.7390114806005134,
+      "mean_psi": -0.7390114806005134,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": null,
+      "protected_query_accuracy": 0.75,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 1,
+      "runtime_seconds": 0.023507799999606505,
+      "step": 3,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5031223447927873,
+      "accessibility_proxy": 0.75,
+      "broker_concentration": 0.29166666666666663,
+      "contaminated_items_admitted": 2,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.0,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 5,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -0.8918336534389681,
+      "mean_psi": -0.8918336534389681,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.375,
+      "protected_query_accuracy": 0.75,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 1,
+      "runtime_seconds": 0.024357700000109617,
+      "step": 4,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5912850872404765,
+      "accessibility_proxy": 0.75,
+      "broker_concentration": 0.30612244897959184,
+      "contaminated_items_admitted": 2,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.0,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 6,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.0084088924058863,
+      "mean_psi": -1.0084088924058863,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.375,
+      "protected_query_accuracy": 0.75,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 1,
+      "runtime_seconds": 0.02509479999935138,
+      "step": 5,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4913892045837347,
+      "accessibility_proxy": 1.0,
+      "broker_concentration": 0.3079584775086506,
+      "contaminated_items_admitted": 2,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.0,
+      "lane_occupancy_ratios": {
+        "core": 0.9444444444444444,
+        "het": 0.0,
+        "nar": 0.05555555555555555
+      },
+      "low_reserve_residence_time": 7,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.0774060798598646,
+      "mean_psi": -1.0774060798598646,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.4166666666666667,
+      "protected_query_accuracy": 1.0,
+      "protected_query_recall": 1.0,
+      "realized_fork_count": 1,
+      "runtime_seconds": 0.025823899999522837,
+      "step": 6,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.6301814751287662,
+      "accessibility_proxy": 1.0,
+      "broker_concentration": 0.2908587257617728,
+      "contaminated_items_admitted": 2,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.0,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 8,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.1363313699970468,
+      "mean_psi": -1.1363313699970468,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.4166666666666667,
+      "protected_query_accuracy": 1.0,
+      "protected_query_recall": 1.0,
+      "realized_fork_count": 2,
+      "runtime_seconds": 0.026383800000076008,
+      "step": 7,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5963064919665324,
+      "accessibility_proxy": 1.0,
+      "broker_concentration": 0.26033057851239666,
+      "contaminated_items_admitted": 2,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.0,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 9,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.1874397168825452,
+      "mean_psi": -1.1874397168825452,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.45833333333333337,
+      "protected_query_accuracy": 1.0,
+      "protected_query_recall": 1.0,
+      "realized_fork_count": 2,
+      "runtime_seconds": 0.026968699999997625,
+      "step": 8,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.6231368687314414,
+      "accessibility_proxy": 1.0,
+      "broker_concentration": 0.26080000000000003,
+      "contaminated_items_admitted": 2,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.0,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 10,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.231009432067435,
+      "mean_psi": -1.231009432067435,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.45833333333333337,
+      "protected_query_accuracy": 1.0,
+      "protected_query_recall": 1.0,
+      "realized_fork_count": 2,
+      "runtime_seconds": 0.027583499999309424,
+      "step": 9,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5559142026973423,
+      "accessibility_proxy": 0.5,
+      "broker_concentration": 0.2674897119341564,
+      "contaminated_items_admitted": 2,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.07407407407407407,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 11,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.2605462293974263,
+      "mean_psi": -1.2605462293974263,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.4166666666666667,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.5,
+      "realized_fork_count": 2,
+      "runtime_seconds": 0.028206399999362475,
+      "step": 10,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5532396693890609,
+      "accessibility_proxy": 0.5833333333333334,
+      "broker_concentration": 0.2729591836734694,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.07142857142857142,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 12,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.2788430453066801,
+      "mean_psi": -1.2788430453066801,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.4166666666666667,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 3,
+      "runtime_seconds": 0.028887399999803165,
+      "step": 11,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5496070742087282,
+      "accessibility_proxy": 0.625,
+      "broker_concentration": 0.2688888888888889,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.08300395256916995,
+      "false_core_admission_rate": 0.07142857142857142,
+      "lane_occupancy_ratios": {
+        "core": 0.9032258064516129,
+        "het": 0.06451612903225806,
+        "nar": 0.03225806451612903
+      },
+      "low_reserve_residence_time": 13,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.2996710475299147,
+      "mean_psi": -1.2996710475299147,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3749451032059728,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 3,
+      "runtime_seconds": 0.029601700000057463,
+      "step": 12,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5449815704119623,
+      "accessibility_proxy": 0.625,
+      "broker_concentration": 0.26953125,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.09899475524475523,
+      "false_core_admission_rate": 0.06896551724137931,
+      "lane_occupancy_ratios": {
+        "core": 0.8787878787878788,
+        "het": 0.09090909090909091,
+        "nar": 0.030303030303030304
+      },
+      "low_reserve_residence_time": 14,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.3171932277357752,
+      "mean_psi": -1.3171932277357752,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3762776700956049,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 3,
+      "runtime_seconds": 0.030294499999399704,
+      "step": 13,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5274799030907953,
+      "accessibility_proxy": 0.625,
+      "broker_concentration": 0.26124567474048443,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.12740384615384615,
+      "false_core_admission_rate": 0.06666666666666667,
+      "lane_occupancy_ratios": {
+        "core": 0.8571428571428571,
+        "het": 0.11428571428571428,
+        "nar": 0.02857142857142857
+      },
+      "low_reserve_residence_time": 15,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.33121233942611,
+      "mean_psi": -1.33121233942611,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3783001418870984,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 3,
+      "runtime_seconds": 0.0309702999993533,
+      "step": 14,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4979523390621061,
+      "accessibility_proxy": 0.625,
+      "broker_concentration": 0.267578125,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.0625,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 16,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.3422879272859318,
+      "mean_psi": -1.3422879272859318,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3783001418870984,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 4,
+      "runtime_seconds": 0.03443299999980809,
+      "step": 15,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5020691087991465,
+      "accessibility_proxy": 0.5,
+      "broker_concentration": 0.26857142857142857,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.018750000000000003,
+      "false_core_admission_rate": 0.058823529411764705,
+      "lane_occupancy_ratios": {
+        "core": 0.9714285714285714,
+        "het": 0.02857142857142857,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 17,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.351686820316121,
+      "mean_psi": -1.351686820316121,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3485688564153238,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.5,
+      "realized_fork_count": 4,
+      "runtime_seconds": 0.035099499999887485,
+      "step": 16,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.505537189210286,
+      "accessibility_proxy": 0.5,
+      "broker_concentration": 0.2645429362880886,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.06250000000000001,
+      "false_core_admission_rate": 0.05555555555555555,
+      "lane_occupancy_ratios": {
+        "core": 0.9473684210526315,
+        "het": 0.05263157894736842,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 18,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.3602340630324634,
+      "mean_psi": -1.3602340630324634,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3513032314153238,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.5,
+      "realized_fork_count": 4,
+      "runtime_seconds": 0.035764499999459076,
+      "step": 17,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4985681173015069,
+      "accessibility_proxy": 0.5,
+      "broker_concentration": 0.26472337894110654,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.06250000000000001,
+      "false_core_admission_rate": 0.05128205128205128,
+      "lane_occupancy_ratios": {
+        "core": 0.9285714285714286,
+        "het": 0.047619047619047616,
+        "nar": 0.023809523809523808
+      },
+      "low_reserve_residence_time": 19,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.3675148027308341,
+      "mean_psi": -1.3675148027308341,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.35221468974865716,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.5,
+      "realized_fork_count": 4,
+      "runtime_seconds": 0.03656169999976555,
+      "step": 18,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5250212141620738,
+      "accessibility_proxy": 0.5833333333333334,
+      "broker_concentration": 0.26234384295062463,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.04878048780487805,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 20,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.3747681659184872,
+      "mean_psi": -1.3747681659184872,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.35221468974865716,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 5,
+      "runtime_seconds": 0.03731619999962277,
+      "step": 19,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5068933184586848,
+      "accessibility_proxy": 0.5625,
+      "broker_concentration": 0.2572314049586777,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.028124999999999997,
+      "false_core_admission_rate": 0.046511627906976744,
+      "lane_occupancy_ratios": {
+        "core": 0.9772727272727273,
+        "het": 0.022727272727272728,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 21,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.3810598398489726,
+      "mean_psi": -1.3810598398489726,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3345842517989257,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 5,
+      "runtime_seconds": 0.038670299999466806,
+      "step": 20,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.5023187115775756,
+      "accessibility_proxy": 0.5625,
+      "broker_concentration": 0.2561436672967864,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.028124999999999997,
+      "false_core_admission_rate": 0.044444444444444446,
+      "lane_occupancy_ratios": {
+        "core": 0.9782608695652174,
+        "het": 0.021739130434782608,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 22,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.3865716067457274,
+      "mean_psi": -1.3865716067457274,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3345842517989257,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 5,
+      "runtime_seconds": 0.04036240000004909,
+      "step": 21,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4831836330747468,
+      "accessibility_proxy": 0.625,
+      "broker_concentration": 0.2510572856593618,
+      "contaminated_items_admitted": 3,
+      "contradiction_reserve": 0.08653846153846152,
+      "false_core_admission_rate": 0.061224489795918366,
+      "lane_occupancy_ratios": {
+        "core": 0.9607843137254902,
+        "het": 0.0392156862745098,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 23,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.3907721296295978,
+      "mean_psi": -1.3907721296295978,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3365313671835411,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 5,
+      "runtime_seconds": 0.04389329999958136,
+      "step": 22,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4873607979006889,
+      "accessibility_proxy": 0.625,
+      "broker_concentration": 0.2510572856593618,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.058823529411764705,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 24,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.393984589823493,
+      "mean_psi": -1.393984589823493,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3365313671835411,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 6,
+      "runtime_seconds": 0.04558649999944464,
+      "step": 23,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4791791399125744,
+      "accessibility_proxy": 0.5,
+      "broker_concentration": 0.25097899608401564,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.05660377358490566,
+      "lane_occupancy_ratios": {
+        "core": 0.9814814814814815,
+        "het": 0.0,
+        "nar": 0.018518518518518517
+      },
+      "low_reserve_residence_time": 25,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.3973923718270564,
+      "mean_psi": -1.3973923718270564,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3221094726529509,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.5,
+      "realized_fork_count": 6,
+      "runtime_seconds": 0.04726129999926343,
+      "step": 24,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4731516495847545,
+      "accessibility_proxy": 0.5,
+      "broker_concentration": 0.25090909090909086,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.05555555555555555,
+      "lane_occupancy_ratios": {
+        "core": 0.9642857142857143,
+        "het": 0.017857142857142856,
+        "nar": 0.017857142857142856
+      },
+      "low_reserve_residence_time": 26,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.4003061902023524,
+      "mean_psi": -1.4003061902023524,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3221094726529509,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.5,
+      "realized_fork_count": 6,
+      "runtime_seconds": 0.04848689999926137,
+      "step": 25,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.46942749900246,
+      "accessibility_proxy": 0.5,
+      "broker_concentration": 0.2506377551020408,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.05454545454545454,
+      "lane_occupancy_ratios": {
+        "core": 0.9649122807017544,
+        "het": 0.017543859649122806,
+        "nar": 0.017543859649122806
+      },
+      "low_reserve_residence_time": 27,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.4028662386764306,
+      "mean_psi": -1.4028662386764306,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3221094726529509,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.5,
+      "realized_fork_count": 6,
+      "runtime_seconds": 0.050162900000032096,
+      "step": 26,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4899355143028803,
+      "accessibility_proxy": 0.625,
+      "broker_concentration": 0.25,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.05357142857142857,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 28,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.4055662856355677,
+      "mean_psi": -1.4055662856355677,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3221094726529509,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 7,
+      "runtime_seconds": 0.0521681999998691,
+      "step": 27,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4940940771496332,
+      "accessibility_proxy": 0.5833333333333334,
+      "broker_concentration": 0.25,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.046875,
+      "false_core_admission_rate": 0.05263157894736842,
+      "lane_occupancy_ratios": {
+        "core": 0.95,
+        "het": 0.05,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 29,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.4086189681015702,
+      "mean_psi": -1.4086189681015702,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3151563337025293,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 7,
+      "runtime_seconds": 0.05381330000000162,
+      "step": 28,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4820326967516757,
+      "accessibility_proxy": 0.5833333333333334,
+      "broker_concentration": 0.25026014568158167,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.046875,
+      "false_core_admission_rate": 0.05172413793103448,
+      "lane_occupancy_ratios": {
+        "core": 0.9354838709677419,
+        "het": 0.06451612903225806,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 30,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.411066092389907,
+      "mean_psi": -1.411066092389907,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3151563337025293,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 7,
+      "runtime_seconds": 0.05527480000000651,
+      "step": 29,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4668721950867933,
+      "accessibility_proxy": 0.5833333333333334,
+      "broker_concentration": 0.2511242603550296,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.07357954545454545,
+      "false_core_admission_rate": 0.05,
+      "lane_occupancy_ratios": {
+        "core": 0.9090909090909091,
+        "het": 0.07575757575757576,
+        "nar": 0.015151515151515152
+      },
+      "low_reserve_residence_time": 31,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.412866289251097,
+      "mean_psi": -1.412866289251097,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3157921562133518,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 7,
+      "runtime_seconds": 0.05663229999936448,
+      "step": 30,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4830542819050085,
+      "accessibility_proxy": 0.5833333333333334,
+      "broker_concentration": 0.250780437044745,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.04838709677419355,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 32,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.414366491809726,
+      "mean_psi": -1.414366491809726,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3157921562133518,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 8,
+      "runtime_seconds": 0.05785569999989093,
+      "step": 31,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4888898780431934,
+      "accessibility_proxy": 0.5,
+      "broker_concentration": 0.25065088757396453,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.018750000000000003,
+      "false_core_admission_rate": 0.047619047619047616,
+      "lane_occupancy_ratios": {
+        "core": 0.9692307692307692,
+        "het": 0.03076923076923077,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 33,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.4166247762410433,
+      "mean_psi": -1.4166247762410433,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3087400116866829,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.5,
+      "realized_fork_count": 8,
+      "runtime_seconds": 0.05920770000011544,
+      "step": 32,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4906670696638737,
+      "accessibility_proxy": 0.5,
+      "broker_concentration": 0.25114784205693297,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.034090909090909095,
+      "false_core_admission_rate": 0.047619047619047616,
+      "lane_occupancy_ratios": {
+        "core": 0.9545454545454546,
+        "het": 0.045454545454545456,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 34,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.4188024907534795,
+      "mean_psi": -1.4188024907534795,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3092194150957738,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.5,
+      "realized_fork_count": 8,
+      "runtime_seconds": 0.06049159999929543,
+      "step": 33,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4715543999531098,
+      "accessibility_proxy": 0.5625,
+      "broker_concentration": 0.25387755102040815,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.08223684210526316,
+      "false_core_admission_rate": 0.046153846153846156,
+      "lane_occupancy_ratios": {
+        "core": 0.9285714285714286,
+        "het": 0.07142857142857142,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 35,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.4203096881591832,
+      "mean_psi": -1.4203096881591832,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3103822565032698,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 8,
+      "runtime_seconds": 0.061818899999707355,
+      "step": 34,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    },
+    {
+      "Psi_t": -1.4918417448572814,
+      "accessibility_proxy": 0.5625,
+      "broker_concentration": 0.25328580975718423,
+      "contaminated_items_admitted": 4,
+      "contradiction_reserve": 0.0,
+      "false_core_admission_rate": 0.04477611940298507,
+      "lane_occupancy_ratios": {
+        "core": 1.0,
+        "het": 0.0,
+        "nar": 0.0
+      },
+      "low_reserve_residence_time": 36,
+      "max_positive_excursion": 0.0,
+      "max_psi_observed": -0.2007346285417875,
+      "maximal_contamination_excursion": 0.0,
+      "mean_Psi_t": -1.4218465387761066,
+      "mean_psi": -1.4218465387761066,
+      "model_call_counts": {
+        "fallback": 0,
+        "total": 0
+      },
+      "post_fork_recovery_quality": 0.3103822565032698,
+      "protected_query_accuracy": 0.5,
+      "protected_query_recall": 0.75,
+      "realized_fork_count": 9,
+      "runtime_seconds": 0.06333979999999428,
+      "step": 35,
+      "token_usage": {
+        "completion_tokens": 0,
+        "prompt_tokens": 0
+      }
+    }
+  ]
+}

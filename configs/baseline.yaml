@@ -1,0 +1,5 @@
+governance:
+  typed_lanes: false
+  provenance_discount: flat
+  exit_policy: deterministic
+

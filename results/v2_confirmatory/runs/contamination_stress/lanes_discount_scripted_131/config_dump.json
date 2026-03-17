@@ -1,0 +1,138 @@
+{
+  "backend": {
+    "llm_roles": [
+      "review",
+      "query"
+    ],
+    "max_retries": 1,
+    "max_tokens": 96,
+    "ollama_url": "http://127.0.0.1:11434",
+    "policy_backend": "scripted",
+    "request_timeout_s": 45,
+    "temperature": 0
+  },
+  "experiment": {
+    "active_profile": {
+      "imports_per_step": 5,
+      "steps": 36,
+      "summary_interval": 6
+    },
+    "calibration_seeds": [
+      11,
+      17,
+      23
+    ],
+    "evaluation_seeds": [
+      101,
+      103,
+      107,
+      109,
+      113,
+      127,
+      131,
+      137,
+      139,
+      149,
+      151,
+      157
+    ],
+    "mode": "confirmatory",
+    "mode_profiles": {
+      "aux_llm": {
+        "imports_per_step": 3,
+        "steps": 6,
+        "summary_interval": 3
+      },
+      "confirmatory": {
+        "imports_per_step": 5,
+        "steps": 36,
+        "summary_interval": 6
+      },
+      "fork_eval": {
+        "imports_per_step": 6,
+        "steps": 48,
+        "summary_interval": 8
+      }
+    },
+    "name": "sec_poc_v2",
+    "paired_conditions": [
+      "baseline",
+      "lanes_only",
+      "lanes_discount",
+      "full_sec_lite"
+    ],
+    "protected_queries": [
+      "claim.alpha",
+      "claim.beta",
+      "claim.gamma",
+      "claim.delta"
+    ],
+    "public_entrypoint": false,
+    "query_every": 1,
+    "query_top_k": 5,
+    "recovery_window": 3,
+    "world_label": "contamination_stress"
+  },
+  "governance": {
+    "coalition_penalty": 0.18,
+    "contradiction_window": 4,
+    "cooldown_steps": 3,
+    "depth_cap": 2,
+    "deterministic_exit_streak": 4,
+    "exit_policy": "deterministic",
+    "mixed_cooldown_threshold": 0.34,
+    "mixed_exit_threshold": 0.56,
+    "promotion_min_support": 2,
+    "provenance_discount": "depth",
+    "reserve_floor": 0.18,
+    "review_core_threshold": 0.62,
+    "review_het_threshold": 0.38,
+    "summary_min_items": 3,
+    "typed_lanes": true
+  },
+  "logging": {
+    "config_dump_filename": "config_dump.json",
+    "log_dir": "logs",
+    "results_dir": "results"
+  },
+  "runtime": {
+    "epsilon_floor": 0.02,
+    "seed_stride": 1000,
+    "weight_service_coeff": 0.25
+  },
+  "world": {
+    "attack_burst_size": 3,
+    "attack_interval": 3,
+    "coalition_brokers": [
+      "broker_c1",
+      "broker_c2"
+    ],
+    "drift_keys_per_episode": 3,
+    "drift_steps": [
+      10,
+      22
+    ],
+    "honest_brokers": [
+      "broker_h1",
+      "broker_h2",
+      "broker_h3",
+      "broker_h4"
+    ],
+    "key_families": [
+      "claim.alpha",
+      "claim.beta",
+      "claim.gamma",
+      "claim.delta",
+      "claim.epsilon",
+      "claim.zeta"
+    ],
+    "parser_budget": 2,
+    "pointer_budget": 2,
+    "replay_budget": 5,
+    "replicas": [
+      "replica_a",
+      "replica_b",
+      "replica_c"
+    ]
+  }
+}

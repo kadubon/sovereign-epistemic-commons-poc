@@ -1,0 +1,18 @@
+extends: base_v2.yaml
+
+experiment:
+  public_entrypoint: false
+  world_label: fork_stress
+  active_profile_name: fork_eval
+
+world:
+  drift_steps: [8, 20]
+  drift_keys_per_episode: 4
+  attack_interval: 2
+  attack_burst_size: 3
+
+governance:
+  reserve_floor: 0.24
+  deterministic_exit_streak: 2
+  mixed_exit_threshold: 0.11
+  mixed_cooldown_threshold: 0.03

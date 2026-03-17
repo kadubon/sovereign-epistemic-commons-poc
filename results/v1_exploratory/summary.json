@@ -1,0 +1,50 @@
+{
+  "baseline": {
+    "broker_concentration": 0.26059001593183984,
+    "contaminated_items_admitted": 0.0,
+    "contradiction_reserve": 0.2114062191390292,
+    "false_core_admission_rate": 0.031589405521658835,
+    "low_reserve_residence_time": 26.666666666666668,
+    "maximal_contamination_excursion": 0.0,
+    "mean_Psi_t": -0.5769988426927489,
+    "protected_query_accuracy": 0.4166666666666667,
+    "protected_query_recall": 0.8333333333333334,
+    "realized_fork_count": 6.0
+  },
+  "full_sec_lite": {
+    "broker_concentration": 0.26059001593183984,
+    "contaminated_items_admitted": 0.0,
+    "contradiction_reserve": 0.2114062191390292,
+    "false_core_admission_rate": 0.0139908400777966,
+    "low_reserve_residence_time": 26.666666666666668,
+    "maximal_contamination_excursion": 0.23096514291515652,
+    "mean_Psi_t": -0.4260453204052559,
+    "protected_query_accuracy": 0.8333333333333334,
+    "protected_query_recall": 0.9166666666666666,
+    "realized_fork_count": 0.0
+  },
+  "lanes_discount": {
+    "broker_concentration": 0.2625092797918246,
+    "contaminated_items_admitted": 0.0,
+    "contradiction_reserve": 0.10328696804106641,
+    "false_core_admission_rate": 0.03179298328977588,
+    "low_reserve_residence_time": 31.333333333333332,
+    "maximal_contamination_excursion": 0.23096514291515652,
+    "mean_Psi_t": -0.4291509921902615,
+    "protected_query_accuracy": 0.6666666666666666,
+    "protected_query_recall": 0.8333333333333334,
+    "realized_fork_count": 7.666666666666667
+  },
+  "lanes_only": {
+    "broker_concentration": 0.1811533329744283,
+    "contaminated_items_admitted": 29.0,
+    "contradiction_reserve": 0.3218893095164261,
+    "false_core_admission_rate": 0.018208844295800816,
+    "low_reserve_residence_time": 1.6666666666666667,
+    "maximal_contamination_excursion": 0.31075563877587326,
+    "mean_Psi_t": -0.15686857372553403,
+    "protected_query_accuracy": 0.8333333333333334,
+    "protected_query_recall": 0.9166666666666666,
+    "realized_fork_count": 0.0
+  }
+}

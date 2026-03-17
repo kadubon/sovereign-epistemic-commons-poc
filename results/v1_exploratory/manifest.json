@@ -1,0 +1,137 @@
+{
+  "runs": [
+    {
+      "backend": "scripted",
+      "condition": "baseline",
+      "event_log": "logs/v1_exploratory/baseline_scripted_11.jsonl",
+      "metrics_file": "results/v1_exploratory/baseline_scripted_11/metrics.json",
+      "run_id": "baseline_scripted_11",
+      "seed": 11,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__baseline__scripted__seed11"
+    },
+    {
+      "backend": "scripted",
+      "condition": "lanes_only",
+      "event_log": "logs/v1_exploratory/lanes_only_scripted_11.jsonl",
+      "metrics_file": "results/v1_exploratory/lanes_only_scripted_11/metrics.json",
+      "run_id": "lanes_only_scripted_11",
+      "seed": 11,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__lanes_only__scripted__seed11"
+    },
+    {
+      "backend": "scripted",
+      "condition": "lanes_discount",
+      "event_log": "logs/v1_exploratory/lanes_discount_scripted_11.jsonl",
+      "metrics_file": "results/v1_exploratory/lanes_discount_scripted_11/metrics.json",
+      "run_id": "lanes_discount_scripted_11",
+      "seed": 11,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__lanes_discount__scripted__seed11"
+    },
+    {
+      "backend": "scripted",
+      "condition": "full_sec_lite",
+      "event_log": "logs/v1_exploratory/full_sec_lite_scripted_11.jsonl",
+      "metrics_file": "results/v1_exploratory/full_sec_lite_scripted_11/metrics.json",
+      "run_id": "full_sec_lite_scripted_11",
+      "seed": 11,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__full_sec_lite__scripted__seed11"
+    },
+    {
+      "backend": "scripted",
+      "condition": "baseline",
+      "event_log": "logs/v1_exploratory/baseline_scripted_17.jsonl",
+      "metrics_file": "results/v1_exploratory/baseline_scripted_17/metrics.json",
+      "run_id": "baseline_scripted_17",
+      "seed": 17,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__baseline__scripted__seed17"
+    },
+    {
+      "backend": "scripted",
+      "condition": "lanes_only",
+      "event_log": "logs/v1_exploratory/lanes_only_scripted_17.jsonl",
+      "metrics_file": "results/v1_exploratory/lanes_only_scripted_17/metrics.json",
+      "run_id": "lanes_only_scripted_17",
+      "seed": 17,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__lanes_only__scripted__seed17"
+    },
+    {
+      "backend": "scripted",
+      "condition": "lanes_discount",
+      "event_log": "logs/v1_exploratory/lanes_discount_scripted_17.jsonl",
+      "metrics_file": "results/v1_exploratory/lanes_discount_scripted_17/metrics.json",
+      "run_id": "lanes_discount_scripted_17",
+      "seed": 17,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__lanes_discount__scripted__seed17"
+    },
+    {
+      "backend": "scripted",
+      "condition": "full_sec_lite",
+      "event_log": "logs/v1_exploratory/full_sec_lite_scripted_17.jsonl",
+      "metrics_file": "results/v1_exploratory/full_sec_lite_scripted_17/metrics.json",
+      "run_id": "full_sec_lite_scripted_17",
+      "seed": 17,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__full_sec_lite__scripted__seed17"
+    },
+    {
+      "backend": "scripted",
+      "condition": "baseline",
+      "event_log": "logs/v1_exploratory/baseline_scripted_23.jsonl",
+      "metrics_file": "results/v1_exploratory/baseline_scripted_23/metrics.json",
+      "run_id": "baseline_scripted_23",
+      "seed": 23,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__baseline__scripted__seed23"
+    },
+    {
+      "backend": "scripted",
+      "condition": "lanes_only",
+      "event_log": "logs/v1_exploratory/lanes_only_scripted_23.jsonl",
+      "metrics_file": "results/v1_exploratory/lanes_only_scripted_23/metrics.json",
+      "run_id": "lanes_only_scripted_23",
+      "seed": 23,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__lanes_only__scripted__seed23"
+    },
+    {
+      "backend": "scripted",
+      "condition": "lanes_discount",
+      "event_log": "logs/v1_exploratory/lanes_discount_scripted_23.jsonl",
+      "metrics_file": "results/v1_exploratory/lanes_discount_scripted_23/metrics.json",
+      "run_id": "lanes_discount_scripted_23",
+      "seed": 23,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__lanes_discount__scripted__seed23"
+    },
+    {
+      "backend": "scripted",
+      "condition": "full_sec_lite",
+      "event_log": "logs/v1_exploratory/full_sec_lite_scripted_23.jsonl",
+      "metrics_file": "results/v1_exploratory/full_sec_lite_scripted_23/metrics.json",
+      "run_id": "full_sec_lite_scripted_23",
+      "seed": 23,
+      "world": "v1_exploratory",
+      "analysis_group": "exploratory",
+      "run_uid": "v1_exploratory__full_sec_lite__scripted__seed23"
+    }
+  ],
+  "canonical_run_key": "run_uid"
+}

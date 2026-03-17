@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "SEC PoC: Lightweight Simulator for Sovereign Epistemic Commons under No-Meta Governance"
+message: "If you use this repository, please cite the paper below."
+type: software
+authors:
+  - family-names: "Takahashi"
+    given-names: "K."
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Takahashi"
+      given-names: "K."
+  title: "Sovereign Epistemic Commons under No-Meta Governance"
+  year: 2026
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.18997828"
+  url: "https://doi.org/10.5281/zenodo.18997828"
+

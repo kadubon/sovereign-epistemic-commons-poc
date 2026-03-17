@@ -1,0 +1,32 @@
+{
+  "contamination_stress_calibration": {
+    "baseline": {
+      "mean_forks": 8.333333333333334,
+      "mean_low_reserve_residence_time": 33.333333333333336,
+      "mean_post_fork_recovery_quality": 0.4037839090839801
+    },
+    "lanes_discount": {
+      "mean_forks": 7.666666666666667,
+      "mean_low_reserve_residence_time": 32.666666666666664,
+      "mean_post_fork_recovery_quality": 0.39507778732985593
+    },
+    "lanes_only": {
+      "mean_forks": 7.333333333333333,
+      "mean_low_reserve_residence_time": 31.0,
+      "mean_post_fork_recovery_quality": 0.381560130555799
+    }
+  },
+  "fork_stress_calibration": {
+    "full_sec_lite": {
+      "mean_forks": 5.333333333333333,
+      "mean_low_reserve_residence_time": 38.0,
+      "mean_post_fork_recovery_quality": 0.38918919798346074
+    },
+    "lanes_discount": {
+      "mean_forks": 12.0,
+      "mean_low_reserve_residence_time": 48.0,
+      "mean_post_fork_recovery_quality": 0.2986016734918236
+    }
+  },
+  "note": "Calibration is diagnostic only. World parameters are frozen before held-out evaluation."
+}

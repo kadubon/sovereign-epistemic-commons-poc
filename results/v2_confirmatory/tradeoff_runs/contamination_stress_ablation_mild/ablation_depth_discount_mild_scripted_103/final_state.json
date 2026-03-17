@@ -1,0 +1,2451 @@
+{
+  "items": [
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "0_1_benign",
+      "key": "claim.zeta",
+      "lane": "core",
+      "normalized_key": "claim.zeta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 0,
+      "value": "claim_zeta_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "0_4_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 72,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 0,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.9199999999999999
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "1_0_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 39,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 1,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "1_1_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 1,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "1_3_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 35,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 1,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "2_2_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 34,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 2,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "2_3_benign",
+      "key": "claim.beta",
+      "lane": "core",
+      "normalized_key": "claim.beta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 35,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 2,
+      "value": "claim_beta_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "3_2_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 3,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.8113361722757091
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "3_4_benign",
+      "key": "claim.beta",
+      "lane": "core",
+      "normalized_key": "claim.beta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 40,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 3,
+      "value": "claim_beta_v0",
+      "visible_score": 0.9199999999999999
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "4_0_benign",
+      "key": "claim.delta",
+      "lane": "core",
+      "normalized_key": "claim.delta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 35,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 4,
+      "value": "claim_delta_v0",
+      "visible_score": 0.8334367451367793
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "4_1_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 32,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 4,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "4_3_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 4,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.9199999999999999
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "4_4_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 32,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 4,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "5_2_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 62,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 5,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.9199999999999999
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "6_1_benign",
+      "key": "claim.zeta",
+      "lane": "core",
+      "normalized_key": "claim.zeta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 6,
+      "value": "claim_zeta_v0",
+      "visible_score": 0.8599999999999999
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "6_2_benign",
+      "key": "claim.beta",
+      "lane": "core",
+      "normalized_key": "claim.beta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 30,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 6,
+      "value": "claim_beta_v0",
+      "visible_score": 0.8334367451367793
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "6_4_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 6,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "7_0_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 5,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 7,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.7734367451367794
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "7_1_benign",
+      "key": "claim.zeta",
+      "lane": "core",
+      "normalized_key": "claim.zeta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 7,
+      "value": "claim_zeta_v0",
+      "visible_score": 0.751336172275709
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "7_3_benign",
+      "key": "claim.delta",
+      "lane": "core",
+      "normalized_key": "claim.delta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 44,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 7,
+      "value": "claim_delta_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "7_4_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 7,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.8113361722757091
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "8_0_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 21,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 8,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.8113361722757091
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "8_2_benign",
+      "key": "claim.delta",
+      "lane": "core",
+      "normalized_key": "claim.delta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 10,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 8,
+      "value": "claim_delta_v0",
+      "visible_score": 0.8113361722757091
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "9_1_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 5,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 9,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.8113361722757091
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "9_2_benign",
+      "key": "claim.delta",
+      "lane": "core",
+      "normalized_key": "claim.delta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 27,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 9,
+      "value": "claim_delta_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "9_4_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 9,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.751336172275709
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "10_0_benign",
+      "key": "claim.delta",
+      "lane": "core",
+      "normalized_key": "claim.delta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 26,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 10,
+      "value": "claim_delta_v0",
+      "visible_score": 0.8599999999999999
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "10_1_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 10,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.751336172275709
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": true,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": false,
+      "item_id": "10_3_stale",
+      "key": "legacy::claim::beta",
+      "lane": "core",
+      "normalized_key": "claim.beta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": false
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_c",
+      "schema": "old",
+      "schema_residual": 0.18,
+      "served_count": 26,
+      "source_type": "stale",
+      "stale_flag": true,
+      "timestamp": 10,
+      "value": "claim_beta_v0",
+      "visible_score": 0.5130367451367794
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": true,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": false,
+      "item_id": "10_4_stale",
+      "key": "legacy::claim::zeta",
+      "lane": "core",
+      "normalized_key": "claim.zeta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": false
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_a",
+      "schema": "old",
+      "schema_residual": 0.18,
+      "served_count": 0,
+      "source_type": "stale",
+      "stale_flag": true,
+      "timestamp": 10,
+      "value": "claim_zeta_v0",
+      "visible_score": 0.5730367451367794
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "11_0_benign",
+      "key": "claim.delta",
+      "lane": "core",
+      "normalized_key": "claim.delta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 11,
+      "value": "claim_delta_v0",
+      "visible_score": 0.7134367451367793
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "11_3_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 11,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.751336172275709
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "12_1_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 24,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 12,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.8599999999999999
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "12_4_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 12,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.691336172275709
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "13_3_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 13,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.7134367451367793
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "13_4_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 13,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.8113361722757091
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "14_0_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 22,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 14,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.871336172275709
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "15_2_benign",
+      "key": "claim.delta",
+      "lane": "core",
+      "normalized_key": "claim.delta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 15,
+      "value": "claim_delta_v0",
+      "visible_score": 0.8113361722757091
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "15_4_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 15,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.8599999999999999
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "16_1_benign",
+      "key": "claim.delta",
+      "lane": "core",
+      "normalized_key": "claim.delta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 16,
+      "value": "claim_delta_v0",
+      "visible_score": 0.6534367451367793
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "16_4_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 16,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.751336172275709
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "17_3_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 17,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.751336172275709
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "18_1_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 18,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.8113361722757091
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "18_4_benign",
+      "key": "claim.delta",
+      "lane": "core",
+      "normalized_key": "claim.delta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 18,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 18,
+      "value": "claim_delta_v0",
+      "visible_score": 0.8334367451367793
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "19_3_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 19,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.8334367451367793
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "19_4_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 19,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.751336172275709
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "20_2_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 20,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.74
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "20_3_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 20,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.7134367451367793
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "21_1_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 21,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.8113361722757091
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "21_4_benign",
+      "key": "claim.delta",
+      "lane": "core",
+      "normalized_key": "claim.delta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 21,
+      "value": "claim_delta_v0",
+      "visible_score": 0.751336172275709
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": true,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": false,
+      "item_id": "22_0_stale",
+      "key": "legacy::claim::delta",
+      "lane": "core",
+      "normalized_key": "claim.delta",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": false
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_a",
+      "schema": "old",
+      "schema_residual": 0.18,
+      "served_count": 0,
+      "source_type": "stale",
+      "stale_flag": true,
+      "timestamp": 22,
+      "value": "claim_delta_v0",
+      "visible_score": 0.3930367451367794
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "22_1_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 22,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.74
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "22_4_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 22,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.691336172275709
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "23_3_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 23,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.8113361722757091
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "25_1_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 25,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.691336172275709
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "25_3_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 25,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.691336172275709
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "27_1_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 27,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.6534367451367793
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "27_4_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 27,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.691336172275709
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.2,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "28_1_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 28,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.691336172275709
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "28_4_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 28,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.7134367451367793
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "29_0_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 7,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 29,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.8599999999999999
+    },
+    {
+      "broker": "broker_h3",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "29_3_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 29,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.691336172275709
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "30_1_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 2,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 30,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.6534367451367793
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "31_1_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 31,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.751336172275709
+    },
+    {
+      "broker": "broker_h2",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "31_3_benign",
+      "key": "claim.gamma",
+      "lane": "core",
+      "normalized_key": "claim.gamma",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 31,
+      "value": "claim_gamma_v0",
+      "visible_score": 0.691336172275709
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "32_2_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_b",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 32,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.691336172275709
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "33_1_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 33,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.7999999999999999
+    },
+    {
+      "broker": "broker_h4",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.4,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "34_0_benign",
+      "key": "claim.epsilon",
+      "lane": "core",
+      "normalized_key": "claim.epsilon",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 0,
+      "replica": "replica_a",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 34,
+      "value": "claim_epsilon_v0",
+      "visible_score": 0.74
+    },
+    {
+      "broker": "broker_h1",
+      "coalition_flag": false,
+      "contamination_flag": false,
+      "contradiction_flag": false,
+      "cost": 1.6,
+      "fork_id": "fork_9",
+      "hidden_truth_match": true,
+      "item_id": "34_3_benign",
+      "key": "claim.alpha",
+      "lane": "core",
+      "normalized_key": "claim.alpha",
+      "parents": [],
+      "parser_valid": true,
+      "pointers": [
+        {
+          "kind": "anchor",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        },
+        {
+          "kind": "relay",
+          "verified": true
+        }
+      ],
+      "provenance_depth": 1,
+      "replica": "replica_c",
+      "schema": "new",
+      "schema_residual": 0.0,
+      "served_count": 0,
+      "source_type": "benign",
+      "stale_flag": false,
+      "timestamp": 34,
+      "value": "claim_alpha_v0",
+      "visible_score": 0.691336172275709
+    }
+  ]
+}

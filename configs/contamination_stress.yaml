@@ -1,0 +1,15 @@
+extends: base_v2.yaml
+
+experiment:
+  public_entrypoint: false
+  world_label: contamination_stress
+
+world:
+  drift_steps: [10, 22]
+  drift_keys_per_episode: 3
+  attack_interval: 3
+  attack_burst_size: 3
+
+governance:
+  reserve_floor: 0.18
+
